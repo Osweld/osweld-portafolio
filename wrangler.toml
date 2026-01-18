@@ -1,3 +1,5 @@
 name = "osweld-portafolio"
-pages_build_output_dir = "./dist/osweld-portafolio/browser"
 compatibility_date = "2026-01-18"
+
+[assets]
+directory = "./dist/osweld-portafolio/browser"
