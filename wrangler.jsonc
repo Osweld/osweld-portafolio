@@ -1,6 +1,7 @@
 {
     "name": "osweld-portafolio",
     "compatibility_date": "2026-01-18",
+    "main": "src/index.ts",
     "assets": {
         "directory": "./dist"
     }
