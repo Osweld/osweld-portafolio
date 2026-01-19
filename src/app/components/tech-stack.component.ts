@@ -12,7 +12,7 @@ import { CommonModule } from '@angular/common';
                 Technical Expertise
             </h2>
             
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <!-- Backend -->
                 <div class="bg-surface p-6 rounded-lg border border-white/5 hover:border-accent/30 transition-all duration-300 hover:-translate-y-2">
                     <div class="h-10 w-10 rounded bg-accent/10 flex items-center justify-center mb-4 text-accent">
@@ -52,13 +52,35 @@ import { CommonModule } from '@angular/common';
                             <span class="w-1.5 h-1.5 bg-success rounded-full mr-2"></span>PostgreSQL / Redis
                         </li>
                         <li class="flex items-center text-sm text-text-secondary">
-                            <span class="w-1.5 h-1.5 bg-success rounded-full mr-2"></span>Docker & Kubernetes
+                            <span class="w-1.5 h-1.5 bg-success rounded-full mr-2"></span>Docker
                         </li>
                         <li class="flex items-center text-sm text-text-secondary">
-                            <span class="w-1.5 h-1.5 bg-success rounded-full mr-2"></span>Linux System Admin
+                            <span class="w-1.5 h-1.5 bg-success rounded-full mr-2"></span>Linux
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Data Engineering -->
+                <div class="bg-surface p-6 rounded-lg border border-white/5 hover:border-purple-400/30 transition-all duration-300 hover:-translate-y-2">
+                     <div class="h-10 w-10 rounded bg-purple-400/10 flex items-center justify-center mb-4 text-purple-400">
+                        <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.58 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.58 4 8 4s8-1.79 8-4M4 7c0-2.21 3.58-4 8-4s8 1.79 8 4m0 5c0 2.21-3.58 4-8 4s-8-1.79-8-4" />
+                        </svg>
+                    </div>
+                    <h3 class="text-lg font-bold text-text-primary mb-2">Data Engineering</h3>
+                    <p class="text-sm text-text-secondary mb-4">ETL processes and data integration.</p>
+                    <ul class="space-y-2">
+                        <li class="flex items-center text-sm text-text-secondary">
+                            <span class="w-1.5 h-1.5 bg-purple-400 rounded-full mr-2"></span>SQL Server
                         </li>
                         <li class="flex items-center text-sm text-text-secondary">
-                            <span class="w-1.5 h-1.5 bg-success rounded-full mr-2"></span>CI/CD Pipelines
+                            <span class="w-1.5 h-1.5 bg-purple-400 rounded-full mr-2"></span>SSIS / ETL
+                        </li>
+                        <li class="flex items-center text-sm text-text-secondary">
+                            <span class="w-1.5 h-1.5 bg-purple-400 rounded-full mr-2"></span>Stored Procedures
+                        </li>
+                        <li class="flex items-center text-sm text-text-secondary">
+                            <span class="w-1.5 h-1.5 bg-purple-400 rounded-full mr-2"></span>Data Modeling
                         </li>
                     </ul>
                 </div>

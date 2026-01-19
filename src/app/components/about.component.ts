@@ -31,7 +31,7 @@ import { CommonModule } from '@angular/common';
                     <svg class="h-6 w-6 text-success flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                     </svg>
-                    <span><strong class="text-white">English Proficiency (B2):</strong> Capable of technical communication and remote collaboration with international teams.</span>
+                    <span><strong class="text-white">English Proficiency (A2):</strong> Capable of reading technical documentation and basic communication.</span>
                   </li>
                   <li class="flex items-start">
                     <svg class="h-6 w-6 text-success flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
