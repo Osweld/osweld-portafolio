@@ -25,11 +25,11 @@ import { CommonModule } from '@angular/common';
                 <a href="#projects" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-primary-bg bg-accent hover:bg-opacity-90 md:py-4 md:text-lg transition-all shadow-[0_0_15px_rgba(56,189,248,0.3)] hover:shadow-[0_0_25px_rgba(56,189,248,0.5)]">
                   View Projects
                 </a>
-                <a href="https://drive.google.com/file/d/1UX8EqFUGxkOdsIaJLZZ-GwUIenTrzhnc/view?usp=sharing" class="w-full flex items-center justify-center px-8 py-3 border border-surface text-base font-medium rounded-md text-text-primary bg-transparent hover:bg-surface md:py-4 md:text-lg transition-all font-mono">
+                <a href="https://drive.google.com/file/d/1xo_LSNGww6k9kK7csXEImadoxBDTLTSs/view?usp=sharing" class="w-full flex items-center justify-center px-8 py-3 border border-surface text-base font-medium rounded-md text-text-primary bg-transparent hover:bg-surface md:py-4 md:text-lg transition-all font-mono">
                   Download CV
                 </a>
               </div>
-              
+
               <div class="mt-8 flex items-center justify-center lg:justify-start gap-6">
                 <a href="https://github.com/Osweld" target="_blank" rel="noopener noreferrer" class="text-text-secondary hover:text-accent transition-colors duration-300" aria-label="GitHub">
                   <svg class="h-8 w-8" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
